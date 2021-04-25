@@ -3,6 +3,7 @@
 ## Install
 
 ```
+make dotenv-config
 make install
 ```
 
